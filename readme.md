@@ -8,6 +8,7 @@ At the root is `manifest.json`. This file holds the list of packages and home re
 A package is zipped in a specific way.
 
 `checkmate-2.3.8.zip` 
+
 | Application Name | Version | Archive Type |
 | :--------------: | :-----: | :----------: |
 |    checkmate     |  2.3.8  |     zip      |
