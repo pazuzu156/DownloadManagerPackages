@@ -3,7 +3,7 @@
 		{
 			"name": "Checkmate",
 			"version": "2.3.8",
-			"image": "images/gear.png",
+			"image": "images/gear.bmp",
 			"registry": {
 				"root": "HKLM",
 				"subkey": "SOFTWARE\\Microsoft\\WOW6432Node\\Windows\\CurrentVersion\\Uninstall\\{59F5B31A-8CCF-4541-AB31-F200C18AC3FC}_is1",
