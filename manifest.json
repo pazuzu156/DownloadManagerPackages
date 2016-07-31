@@ -6,7 +6,10 @@
 			"image": "images/gear.bmp",
 			"registry": {
 				"root": "HKLM",
-				"subkey": "SOFTWARE\\Microsoft\\WOW6432Node\\Windows\\CurrentVersion\\Uninstall\\{59F5B31A-8CCF-4541-AB31-F200C18AC3FC}_is1",
+				"subkey": {
+					"x86": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\{59F5B31A-8CCF-4541-AB31-F200C18AC3FC}_is1",
+					"x64": "SOFTWARE\\Microsoft\\WOW6432Node\\Windows\\CurrentVersion\\Uninstall\\{59F5B31A-8CCF-4541-AB31-F200C18AC3FC}_is1"
+				},
 				"pathkey": "InstallLocation"
 			}
 		}
